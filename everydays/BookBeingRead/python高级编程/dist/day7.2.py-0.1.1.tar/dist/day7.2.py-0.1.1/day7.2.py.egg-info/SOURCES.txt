@@ -1,0 +1,5 @@
+setup.py
+day7.2.py.egg-info/PKG-INFO
+day7.2.py.egg-info/SOURCES.txt
+day7.2.py.egg-info/dependency_links.txt
+day7.2.py.egg-info/top_level.txt
